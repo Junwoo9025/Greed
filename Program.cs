@@ -1,4 +1,4 @@
-using Raylib_cs;
+﻿using Raylib_cs;
 using System.Numerics;
 
 // This is the parent class for the Circle and Rects classes and is responsible for initializing the x and y coordinates.

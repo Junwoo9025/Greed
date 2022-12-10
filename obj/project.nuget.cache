@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLWHW8K4WFd0iaLLzswM4aL0bpyfB7v6YvCqKxuW8mzKuZEQ6840EXyPfHJQVLvBRDjPfn/0DQtoEJXSaHgURQ==",
+  "success": true,
+  "projectFilePath": "/Users/junwoojeong/Github/cse210-projects/greed/greedy/raylib.csproj",
+  "expectedPackageFiles": [
+    "/Users/junwoojeong/.nuget/packages/raylib-cs/4.2.0.1/raylib-cs.4.2.0.1.nupkg.sha512",
+    "/Users/junwoojeong/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
